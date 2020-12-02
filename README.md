@@ -1,4 +1,4 @@
-<div bg-color="black">
+<body bg-color="black">
 <h1 align="center">  Okereke Chinweotito
 <h2 align="center">Frontend Developer || Web Master</h2>
 <img width="100%" src="https://cdn-media-1.freecodecamp.org/images/1*hOT8TIpiXVDCK02sQkvhDQ.jpeg">
@@ -47,4 +47,4 @@ I am a deeply passionate frontend developer at upwork, soaking up as much knowle
 
 
 ![Profile views](https://gpvc.arturio.dev/okerekechinweotito)  
-</div>
+</body>
