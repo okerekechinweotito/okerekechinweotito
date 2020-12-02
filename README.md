@@ -22,9 +22,7 @@ I am a deeply passionate frontend developer at Upwork, soaking up as much knowle
  <a href="https://analytics.google.com/analytics/web/provision/#/provision" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-image.svg" alt="google-analytics" width="80" height="80"/> </a> 
   <br/>
  <a href="http://learnwebsitedesign.com/"><img src="https://learnwebsitedesign.com/svg-logos/svg-responsive-web-design-logo-1/svg-responsive-web-design-logo-1.svg" alt="google-analytics" width="80" height="80"/> </a>
-  
- <a href="https://www.svgrepo.com/svg/220473/seo"><img src="https://www.svgrepo.com/show/220473/seo.svg" width="80" height="80"/> </a>
-
+  <a href="https://www.svgrepo.com/svg/220473/seo"><img src="https://www.svgrepo.com/show/220473/seo.svg" width="80" height="80"/> </a>
 </p>
 
 ## 💬 Ask me about Open-Source Volunteering 
