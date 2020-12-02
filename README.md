@@ -19,6 +19,6 @@ I am a deeply passionate frontend developer at upwork, soaking up as much knowle
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=okerekechinweotito&show_icons=true)  
 
-##💬 Ask me about Open-Source Volunteering 
+## 💬 Ask me about Open-Source Volunteering 
 
 ![Profile views](https://gpvc.arturio.dev/okerekechinweotito)  
