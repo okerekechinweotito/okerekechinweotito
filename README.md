@@ -23,33 +23,17 @@ I am a deeply passionate frontend developer at upwork, soaking up as much knowle
 
 </p>
 
+## 💬 Ask me about Open-Source Volunteering 
+
+<img width="250" src="https://media.tenor.com/images/3857c8665eaa43f1df6c807e3035c312/tenor.gif"> 
+
+
 
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=okerekechinweotito&show_icons=true&locale=en&layout=compact" alt="okerekechinweotito" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=okerekechinweotito&show_icons=true&locale=en" alt="okerekechinweotito" /></p>
 
 
-
-
-
-
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=okerekechinweotito" alt="okerekechinweotito" /></a> </p>
-
-
-
-
-
-
-
-
-
-
-
-
-## 💬 Ask me about Open-Source Volunteering 
-
-<img width="250" src="https://media.tenor.com/images/3857c8665eaa43f1df6c807e3035c312/tenor.gif"> 
-
 
 ![Profile views](https://gpvc.arturio.dev/okerekechinweotito)  
 
