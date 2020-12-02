@@ -5,6 +5,10 @@
 
 I am a deeply passionate frontend developer at upwork, soaking up as much knowledge and practice as I can in an attempt to perfect my craft. In addition to possessing sharp 'problem-solving' skills I have a **B. S** in **COMPUTER SCIENCE** with advanced professional working experience. As a fast-learner I am able to speedily adapt to high-productive working environments while leveraging technology tools to deliver the best solution to client needs.
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/okerekechinweotito)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chinweotito-okereke-9185941ba//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/okereke__)  
+
+  
+
 
 
 <h2 align="center">Skills and Concepts</h2>
@@ -17,8 +21,6 @@ I am a deeply passionate frontend developer at upwork, soaking up as much knowle
  <a href="http://learnwebsitedesign.com/"><img src="https://learnwebsitedesign.com/svg-logos/svg-responsive-web-design-logo-1/svg-responsive-web-design-logo-1.svg" alt="google-analytics" width="80" height="80"/> </a>
  <a href="https://www.svgrepo.com/svg/220473/seo"><img src="https://www.svgrepo.com/show/220473/seo.svg" width="80" height="80"/> </a>
 
-
- 
 </p>
 
 
@@ -29,7 +31,7 @@ I am a deeply passionate frontend developer at upwork, soaking up as much knowle
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=okerekechinweotito&label=Profile%20views&color=0e75b6&style=flat" alt="okerekechinweotito" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=okerekechinweotito" alt="okerekechinweotito" /></a> </p>
 
@@ -42,9 +44,7 @@ I am a deeply passionate frontend developer at upwork, soaking up as much knowle
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/okerekechinweotito)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chinweotito-okereke-9185941ba//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/okereke__)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=okerekechinweotito&show_icons=true)  
 
 ## 💬 Ask me about Open-Source Volunteering 
 
