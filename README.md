@@ -47,3 +47,4 @@ I am a deeply passionate frontend developer at upwork, soaking up as much knowle
 
 
 ![Profile views](https://gpvc.arturio.dev/okerekechinweotito)  
+</div>
