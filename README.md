@@ -1,7 +1,7 @@
+<div bg-color="black">
 <h1 align="center">  Okereke Chinweotito
 <h2 align="center">Frontend Developer || Web Master</h2>
 <img width="100%" src="https://cdn-media-1.freecodecamp.org/images/1*hOT8TIpiXVDCK02sQkvhDQ.jpeg">
-
 
 I am a deeply passionate frontend developer at upwork, soaking up as much knowledge and practice as I can in an attempt to perfect my craft. In addition to possessing sharp 'problem-solving' skills I have a **B. S** in **COMPUTER SCIENCE** with advanced professional working experience. As a fast-learner I am able to speedily adapt to high-productive working environments while leveraging technology tools to deliver the best solution to client needs.
 
