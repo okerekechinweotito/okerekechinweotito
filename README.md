@@ -1,13 +1,14 @@
-![Frontend Developer || Web Master](https://image.freepik.com/free-vector/programmer-concept-illustration_114360-2284.jpg)
+![Frontend Developer || Web Master](https://cdn-media-1.freecodecamp.org/images/1*hOT8TIpiXVDCK02sQkvhDQ.jpeg)
 
 #  Okereke Chinweotito
 ## Frontend Developer || Web Master
 
 I am a deeply passionate frontend developer at upwork, soaking up as much knowledge and practice as I can in an attempt to perfect my craft. In addition to possessing sharp 'problem-solving' skills I have a **B. S** in **COMPUTER SCIENCE** with advanced professional working experience. As a fast-learner I am able to speedily adapt to high-productive working environments while leveraging technology tools to deliver the best solution to client needs.
 
+<img width="250" src=""> 
+
 ## Skills and Concepts
 
-<img width="250" src="">
 ###  ⚛ React
 ###  ☸ Redux
 ###  💻 HTML, CSS, Javascript
