@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
 <h1 align="center">  Okereke Chinweotito
 <h2 align="center">Frontend Developer || Web Master</h2>
 <img width="100%" src="https://cdn-media-1.freecodecamp.org/images/1*hOT8TIpiXVDCK02sQkvhDQ.jpeg">
@@ -28,7 +30,7 @@ I am a deeply passionate frontend developer at Upwork, soaking up as much knowle
 ## 💬 Ask me about Open-Source Volunteering 
 
 <img width="250" src="https://media.tenor.com/images/3857c8665eaa43f1df6c807e3035c312/tenor.gif"> 
-<br/> <br/> <br/>
+<br/> <br/> <br/> <br/> <br/> <br/>
 
 
 
