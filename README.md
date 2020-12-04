@@ -50,5 +50,5 @@ I am a deeply passionate frontend developer at Upwork, soaking up as much knowle
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=okerekechinweotito" alt="okerekechinweotito" /></a> </p>
 
-![Profile views](https://gpvc.arturio.dev/okerekechinweotito)  
+![Profile views](https://gpvc.arturio.dev/okerekechinweotito)  [![License](https://poser.pugx.org/ali-irawan/xtra/license.svg)](https://poser.pugx.org/ali-irawan/xtra/license.svg)
 
