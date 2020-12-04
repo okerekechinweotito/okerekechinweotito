@@ -31,13 +31,12 @@ I am a deeply passionate frontend developer at Upwork, soaking up as much knowle
 
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okerekechinweotito&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okerekechinweotito&langs_count=10&theme=tokyonight&layout=compact" alt="okerekechinweotito :: Top Langs" /></p>
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=okerekechinweotito&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=okerekechinweotito&show_icons=true&locale=en" alt="okerekechinweotito" /></p>
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=okerekechinweotito" alt="okerekechinweotito" /></a> </p>
