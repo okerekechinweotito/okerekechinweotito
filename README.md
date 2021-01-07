@@ -5,9 +5,7 @@
   
 <h2 align="center">Frontend Developer || Open-source Contributor</h2>
 
-# [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/okerekechinweotito)  
-# [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chinweotito-okereke-9185941ba//)  
-# [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/okereke__) 
+# [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='70'>](https://github.com/okerekechinweotito)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='70'>](https://www.linkedin.com/in/chinweotito-okereke-9185941ba//)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='70'>](https://twitter.com/okereke__) 
 
 # <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people,so if you want to say hi please click on any of the above linkedIn or Twitter links</b> :)</em>
 
@@ -34,7 +32,7 @@
 ## 💬 Ask me about Open-Source Volunteering 
 
 <img width="250" src="https://media.tenor.com/images/3857c8665eaa43f1df6c807e3035c312/tenor.gif"> 
-<br/> <br/> <br/> <br/> <br/> <br/>
+
 
 
 
