@@ -1,9 +1,9 @@
 <h1 align='center'>Hi there, 👋🏾</h1>
 
-<p align='center'> I CODE FOR FUN </p>
+<p align='center'> Be sure to Enjoy your time here , Happy Coding !  </p>
 
 <p align='center'>
-<a href="https://twitter.com/okereke__?ref_src=twsrc%5Etfw">
+<a href="https://twitter.com/okereke__">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
   
