@@ -1,9 +1,10 @@
 ## **High Priest of TypeScript and wannabe disciple of Rust 🦀**
 
 *   **Portfolio Site at [okereke.dev](https://www.okereke.dev) and view my CV [here](https://drive.google.com/file/d/1ZvcAMV65V77ol0p4xVDIi5ZsFzT2K5-3/view)**
-*   **⭐️Core Contributor, [BUB2.toolforge.org](https://github.com/coderwassananmol/BUB2) (Wikimedia Ecosystem)**
-*   **⭐️[OutReachy Alumni](https://www.outreachy.org/alums/2023-12), December 2023 Cohort**
-*   **⭐️Google Season of Docs (GSOD 2024) [Community Mentor](https://www.mediawiki.org/w/index.php?title=Season_of_Docs/2024/Proposal) with the Wikimedia Foundation**
+*   **Bsc Computer Science (CGPA 4.29 / 5)**
+*   **⭐️ Core Contributor, [BUB2.toolforge.org](https://github.com/coderwassananmol/BUB2) (Wikimedia Ecosystem)**
+*   **⭐️ [OutReachy Alumni](https://www.outreachy.org/alums/2023-12), December 2023 Cohort**
+*   **⭐️ Google Season of Docs (GSOD 2024) [Community Mentor](https://www.mediawiki.org/w/index.php?title=Season_of_Docs/2024/Proposal) with the Wikimedia Foundation**
 *   **Open source contributions to multiple projects like:**
    
       * [BUB 2](https://github.com/coderwassananmol/BUB2/pulls?q=is%3Apr+is%3Aclosed+author%3Aokerekechinweotito)
