@@ -1,4 +1,4 @@
-## **High Priest of TypeScript **
+## **High Priest of TypeScript**
 
 *   **Portfolio Site at [okereke.dev](https://www.okereke.dev) and view my CV [here](https://drive.google.com/file/d/1ZvcAMV65V77ol0p4xVDIi5ZsFzT2K5-3/view)**
 *   **⭐️ Bsc Computer Science (CGPA 4.29 / 5)**
