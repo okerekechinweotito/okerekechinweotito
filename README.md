@@ -1,6 +1,6 @@
 ## **High Priest of TypeScript**
 
-*   **Portfolio Site at [okereke.dev](https://www.okereke.me) and view my CV [here](https://drive.google.com/file/d/1ZvcAMV65V77ol0p4xVDIi5ZsFzT2K5-3/view)**
+*   **Portfolio Site at [okereke.me](https://www.okereke.me) and view my CV [here](https://drive.google.com/file/d/1ZvcAMV65V77ol0p4xVDIi5ZsFzT2K5-3/view)**
 *   **⭐️ Bsc Computer Science (CGPA 4.29 / 5)**
 *   **⭐️ Core Contributor, [BUB2.toolforge.org](https://github.com/coderwassananmol/BUB2) (Wikimedia Ecosystem)**
 *   **⭐️ [OutReachy Alumni](https://www.outreachy.org/alums/2023-12), December 2023 Cohort**
