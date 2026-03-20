@@ -10,7 +10,7 @@
       * [BUB 2](https://github.com/coderwassananmol/BUB2/pulls?q=is%3Apr+is%3Aclosed+author%3Aokerekechinweotito)
       * [Wikimedia OCR](https://github.com/wikimedia/wikimedia-ocr/pulls?q=is%3Apr+is%3Aclosed+author%3Aokerekechinweotito)
       * [Campwiz](https://github.com/Open-Knowledge-Impact-Foundation/campwiz-nxt-frontend2/pulls?q=is%3Apr+author%3Aokerekechinweotito+is%3Aclosed)
-      * [Wikisource]([https://gerrit.wikimedia.org/r/q/project:mediawiki/extensions/Wikisource+branch:master](https://gerrit.wikimedia.org/r/q/owner:okerekechinweotito@gmail.com))
+      * [Wikisource](https://gerrit.wikimedia.org/r/q/owner:okerekechinweotito@gmail.com)
       * [OSCSA Blog](https://github.com/Open-Science-Community-Saudi-Arabia/OSCSA-en-blog/pulls?q=is%3Apr+is%3Aclosed+author%3Aokerekechinweotito)
       * [OSCSA MOOCs](https://github.com/Open-Science-Community-Saudi-Arabia/MOOCs/pulls?q=is%3Apr+is%3Aclosed+author%3Aokerekechinweotito)
       * [Piximi](https://github.com/piximi/piximi/pulls?q=is%3Apr+is%3Aclosed+author%3Aokerekechinweotito)
