@@ -8,7 +8,7 @@
 *   **Open source contributions to multiple projects like:**
      
       * [BUB 2](https://github.com/coderwassananmol/BUB2/pulls?q=is%3Apr+is%3Aclosed+author%3Aokerekechinweotito)
-      * [Wikimedia OCR](https://github.com/wikimedia/wikimedia-ocr/pulls?q=is%3Apr+is%3Aclosed+author%3Aokerekechinweotito)
+      * [Wikimedia OCR (Github)](https://github.com/wikimedia/wikimedia-ocr/pulls?q=is%3Apr+is%3Aclosed+author%3Aokerekechinweotito) and [Wikimedia OCR (New GitLab)](https://gitlab.wikimedia.org/toolforge-repos/ocr/-/merge_requests/?sort=created_date&state=merged&author_username=okerekechinweotito&first_page_size=20)
       * [Campwiz](https://github.com/Open-Knowledge-Impact-Foundation/campwiz-nxt-frontend2/pulls?q=is%3Apr+author%3Aokerekechinweotito+is%3Aclosed)
       * [Wikisource](https://gerrit.wikimedia.org/r/q/owner:okerekechinweotito@gmail.com)
       * [OSCSA Blog](https://github.com/Open-Science-Community-Saudi-Arabia/OSCSA-en-blog/pulls?q=is%3Apr+is%3Aclosed+author%3Aokerekechinweotito)
