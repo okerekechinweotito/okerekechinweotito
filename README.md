@@ -1,4 +1,4 @@
-## **High Priest of TypeScript**
+## **High Priest of TypeScript and Agentic Chef**
 
 *   **Fullstack Engineer**
 *   **Portfolio Site at [okereke.me](https://www.okereke.me) and view my CV [here](https://drive.google.com/file/d/1ZvcAMV65V77ol0p4xVDIi5ZsFzT2K5-3/view)**
